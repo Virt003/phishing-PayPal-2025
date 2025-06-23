@@ -1,33 +1,33 @@
 # PayPal Phishing Page v1.0
 
-**The easiest way to quickly and easily steal PayPal accounts**
+**Le moyen le plus simple pour voler des comptes PayPal rapidement et facilement**
 
 ## Description
 
-This page perfectly clones the PayPal login page to capture credentials without the victim suspecting anything. After submission, the user is redirected to a private Discord server where all logs and collected information are gathered.
+Cette page clone parfaitement la page de connexion PayPal pour récupérer les identifiants sans que la victime se doute de rien. Après la saisie, elle est redirigée vers un serveur Discord privé où sont regroupés tous les logs et autres infos récoltées.
 
-## Features
+## Fonctionnalités
 
-* 100% identical clone of PayPal
-* Automatic capture of emails and passwords
-* Instant sending of stolen data to our Discord server
-* Responsive and mobile-friendly interface
-* Easy to deploy on any basic hosting
+* Clone 100% identique à PayPal
+* Capture automatique des emails et mots de passe
+* Envoi instantané des données volées vers notre serveur Discord
+* Interface responsive et mobile-friendly
+* Facile à déployer sur n’importe quel hébergement basique
 
 ## Installation
 
-1. Clone the repo
-2. Configure the Discord webhook with your server
-3. Upload the files to your hosting
-4. Share the phishing link
-5. Retrieve credentials in real-time on Discord
+1. Clone le repo
+2. Configure le webhook Discord avec ton serveur
+3. Upload les fichiers sur ton hébergement
+4. Partage le lien piégé
+5. Récupère les identifiants en temps réel sur Discord
 
-## Warning
+## Attention
 
-* Do not use this script on unauthorized domains
-* This project is provided "as is" without any warranty
-* Use at your own risk
+* Ne pas utiliser ce script sur des domaines non autorisés
+* Ce projet est fourni "tel quel" sans garantie
+* Utilisation à vos risques et périls
 
-# [https://discord.gg/6deAPC2VC5](https://discord.gg/6deAPC2VC5)
+# https://discord.gg/6deAPC2VC5
 
 ![image](https://github.com/user-attachments/assets/a72515ca-6a04-4ea4-9df2-6f0bc58d497e)
