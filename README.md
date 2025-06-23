@@ -12,7 +12,7 @@ Cette page clone parfaitement la page de connexion PayPal pour récupérer les i
 * Capture automatique des emails et mots de passe
 * Envoi instantané des données volées vers notre serveur Discord
 * Interface responsive et mobile-friendly
-* Facile à déployer sur n’importe quel hébergement basique
+* Facile à déployer sur n’importe quel hébergement basique 
 
 ## Installation
 
