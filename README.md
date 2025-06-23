@@ -30,4 +30,5 @@ Cette page clone parfaitement la page de connexion PayPal pour récupérer les i
 
 # https://discord.gg/6deAPC2VC5
 
-image.jpg
+![image](https://github.com/user-attachments/assets/a72515ca-6a04-4ea4-9df2-6f0bc58d497e)
+
