@@ -6,7 +6,7 @@
 
 Cette page clone parfaitement la page de connexion PayPal pour récupérer les identifiants sans que la victime se doute de rien. Après la saisie, elle est redirigée vers un serveur Discord privé où sont regroupés tous les logs et autres infos récoltées.
 
-## Fonctionnalités
+## Fonctionnalités 
 
 * Clone 100% identique à PayPal
 * Capture automatique des emails et mots de passe
