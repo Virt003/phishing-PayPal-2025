@@ -32,5 +32,6 @@ Cette page clone parfaitement la page de connexion PayPal pour récupérer les i
 
 ![image](https://github.com/user-attachments/assets/a72515ca-6a04-4ea4-9df2-6f0bc58d497e) 
 
-![image](https://github.com/user-attachments/assets/f03c396e-5281-468c-8f27-ebe1bb7c7ed7)
+![image](https://github.com/user-attachments/assets/70cbe513-e13c-47e9-94ef-b936ec4853cf)
+
 
